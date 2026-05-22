@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+# Database files
+server/db/data.json
+server/db/data.json.tmp
+# Logs
+*.log
+logs/
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
